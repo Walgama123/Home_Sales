@@ -5,27 +5,27 @@
 </div>
 
 
-##Overview
+## Overview
 This project involves analyzing home sales data using SparkSQL to determine key metrics such as average prices based on various criteria. The project includes creating temporary views, partitioning data, caching tables, and optimizing query performance using PySpark.
 
-##Repository Structure
+## Repository Structure
 - Home_Sales.ipynb: Jupyter notebook containing the code for data analysis and answering the challenge questions.
-- [home_sales_revised.csv: The dataset containing home sales information used for the analysis.]("https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv")
+- [home_sales_revised.csv: The dataset containing home sales information used for the analysis.](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv)
 - README.md: This file, providing an overview and instructions for the project.
 
 ## Prerequisites
-- [Apache Spark]("https://spark.apache.org/")
-- [PySpark]("https://spark.apache.org/docs/latest/api/python/index.html")
-- [Jupyter Notebook]("https://docs.jupyter.org/en/latest/")
-- [Python 3.x]("https://www.python.org/downloads/")
+- [Apache Spark](https://spark.apache.org/)
+- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+- [Jupyter Notebook](https://docs.jupyter.org/en/latest/)
+- [Python 3.x](https://www.python.org/downloads/)
 
 # Project Setup
 - Clone the Repository: git clone https://github.com/Walgama123/Home_Sales.git
-git clone https://github.com/your_username/Home_Sales.git
+
 - Navigate to the Project Directory: cd Home_Sales
 
 - Install the Required Python Packages: 
-  - pip install -r requirements.txt 
+  - pip install <required packages >
 - Launch Jupyter Notebook: jupyter notebook
 
 
